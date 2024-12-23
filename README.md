@@ -65,4 +65,5 @@ Handling Issues
 If you encounter issues:
 
 Ensure file paths are correctly set.
-Install missing dependencies using pip.
+Install missing dependencies using pip to avoid errors.
+
